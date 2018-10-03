@@ -1,3 +1,4 @@
 # blog-posts-app
 react-router and redux-form
-build with https://github.com/StephenGrider/ReduxSimpleStarter
+
+build with boilerplate https://github.com/StephenGrider/ReduxSimpleStarter
