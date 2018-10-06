@@ -14,7 +14,7 @@ class PostsIndex extends Component {
       //_.map - lodash has ability to map objects
       return (
         <li className="list-group-item" key={post.id}>
-          {post.title}
+          <Link to={`/posts/${post.id}`}>{post.title}</Link>
         </li>
       );
     });
